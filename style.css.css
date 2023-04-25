@@ -1,0 +1,32 @@
+.navbar-nav .nav-link{
+    color:#fff
+    ;
+}
+
+#carouselExampleIndicators .carousel-inner .carousel-item .carousel-caption{
+    background:rgba(22, 19, 19, 0.8);
+    
+}
+.navbar-toggler{
+    border: solid 1px #cbcbcb ;
+    background-color: aliceblue
+
+}
+.navbar-toggler-icon{
+    color: #cbcbcb;
+
+}
+@media only screen and (max-width:768){
+    #carouselExampleIndicators .carousel-inner .carousel-item{
+        height: 500px; width: 1400px;
+
+}
+#carouselExampleIndicators .carousel-inner .carousel-item{
+    height: 100%; width: 100%;
+
+}
+
+.bg-blue{
+   conainer background-color: rgb(9, 103, 197);
+}
+
